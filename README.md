@@ -2,6 +2,10 @@
 
 A modern, clean, and responsive web application for calculating weighted grades with real-time updates and visual feedback.
 
+## 🌐 Live Site
+
+**Visit the live application:** [https://ianrmenezes.github.io/grade-calculator/](https://ianrmenezes.github.io/grade-calculator/)
+
 ## ✨ Features
 
 ### Core Functionality
@@ -30,6 +34,12 @@ A modern, clean, and responsive web application for calculating weighted grades 
 
 ## 🚀 Getting Started
 
+### Option 1: Use the Live Site (Recommended)
+**Visit:** [https://ianrmenezes.github.io/grade-calculator/](https://ianrmenezes.github.io/grade-calculator/)
+
+No download required - just open the link and start calculating!
+
+### Option 2: Run Locally
 1. **Clone or Download** the project files
 2. **Open `index.html`** in your web browser
 3. **Start Calculating** your grades!
@@ -117,7 +127,7 @@ The modular JavaScript structure makes it easy to add new features like:
 
 This project is open source and available under the MIT License.
 
-## 🤝 Contributing
+## �� Contributing
 
 Feel free to submit issues, feature requests, or pull requests to improve the calculator!
 
