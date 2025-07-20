@@ -108,29 +108,6 @@ No installation or setup required - it's a pure HTML/CSS/JavaScript application.
 - **Tablet**: Adjusted spacing and font sizes
 - **Mobile**: Single column layout with touch-friendly buttons
 
-## 🔧 Customization
-
-### Adding Custom Grade Scales
-Edit the `updateGradeLetter()` method in `script.js` to modify the letter grade thresholds.
-
-### Changing Colors
-Modify the Tailwind classes in `index.html` or add custom CSS variables.
-
-### Adding Features
-The modular JavaScript structure makes it easy to add new features like:
-- Grade history tracking
-- Export to PDF
-- Multiple course support
-- Grade goal setting
-
 ## 📄 License
 
-This project is open source and available under the MIT License.
-
-## �� Contributing
-
-Feel free to submit issues, feature requests, or pull requests to improve the calculator!
-
----
-
-**Built with ❤️ for students and educators everywhere** 
+This project is open source and available under the MIT License. 
